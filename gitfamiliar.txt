@@ -15,3 +15,13 @@ Familiarity with version control systems, particularly Git, means that you have 
 7. **Best Practices**: Understanding best practices for using Git, such as writing clear commit messages, making small and atomic commits, and maintaining a clean commit history.
 
 Having proficiency in Git is essential for efficient teamwork, code management, and maintaining a reliable and organized codebase in software development.
+
+
+Stage: git add example.txt
+Commit: git commit -m "Updated example.txt with new content"
+Push: git push origin main
+
+
+
+**git commit**===The git commit command in Git is used to save changes to the local repository
+**git push**==The git push command is used to upload local repository changes to a remote repository
